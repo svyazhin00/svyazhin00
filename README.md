@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilya!</h1>
 <h3 align="center">Work on possition python backend developer!</h3>
 
-<h3 align="center">My links:</h3>
-[![Telegram](/images/telegram.png)](https://t.me/svyazhin00)
-[![VK](/images/vk.png)](https://vk.com/svyazhin_ilya)
-[![Habr](/images/habr.png)](https://career.habr.com/ilya_00)
+<h3 align="center">My links:
+<a href="https://t.me/svyazhin00">Telegram</a> |
+<a href="https://vk.com/svyazhin_ilya">VK</a> | 
+<a href="https://career.habr.com/ilya_00">Habr</a>
+</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
